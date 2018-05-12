@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8167'
     url: http://www.gutenberg.org/2009/agents/8167
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18642#Women-of-the-Romance-Countries
 gutenberg_issued: '2006-06-21'
 gutenberg_type: Text
 identifiers:
